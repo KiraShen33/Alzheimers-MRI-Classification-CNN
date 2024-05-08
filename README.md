@@ -13,7 +13,7 @@ This project develops a Convolutional Neural Network (CNN) model to classify MRI
 - seaborn
 - scikit-learn
 - pillow
-- 
+
 # Key Features
 
 **Class Imbalance Management:** 
