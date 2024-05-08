@@ -14,3 +14,9 @@ This project develops a Convolutional Neural Network (CNN) model to classify MRI
 
 # Data Description
 The dataset includes MRI scans categorized into four stages of Alzheimer's Disease: Non-Demented, Very Mild Demented, Mild Demented, and Moderate Demented. It is sourced from publicly available medical image repositories.
+
+# Model Architecture
+- Input Layer: Accepts an input of 224x224 RGB images.
+- Convolutional and Pooling Layers: Multiple layers designed to extract and downsample features from the MRI scans.
+- Regularization Techniques: Utilizes dropout to reduce overfitting and improve generalization.
+- Output Layer: A dense layer with softmax activation to classify the input into one of the four stages.
