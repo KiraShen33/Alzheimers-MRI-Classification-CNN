@@ -1,1 +1,3 @@
-# Alzheimers-MRI-Classification-CNN
+# Alzheimer's Disease MRI Stage Classification
+
+## Overview
