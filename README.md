@@ -12,11 +12,42 @@ This project develops a Convolutional Neural Network (CNN) model to classify MRI
 
 **Performance Metrics:** Achieves a test accuracy of 78.22%, demonstrating strong capability in classifying stages of Alzheimer's Disease.
 
+# Requirements
+
+- tensorflow==2.10.0
+- keras==2.10.0
+- opencv-python
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- pillow
+
 # Data Description
 The dataset includes MRI scans categorized into four stages of Alzheimer's Disease: Non-Demented, Very Mild Demented, Mild Demented, and Moderate Demented. It is sourced from publicly available medical image repositories.
 
 # Model Architecture
-- Input Layer: Accepts an input of 224x224 RGB images.
-- Convolutional and Pooling Layers: Multiple layers designed to extract and downsample features from the MRI scans.
-- Regularization Techniques: Utilizes dropout to reduce overfitting and improve generalization.
-- Output Layer: A dense layer with softmax activation to classify the input into one of the four stages.
+
+- **Input Layer:** Accepts an input of 224x224 RGB images.
+- **Convolutional and Pooling Layers:** Multiple layers designed to extract and downsample features from the MRI scans.
+- **Regularization Techniques:** Utilizes dropout to reduce overfitting and improve generalization.
+- **Output Layer:** A dense layer with softmax activation to classify the input into one of the four stages.
+
+# Results
+
+The CNN model effectively classifies Alzheimer's Disease stages with a high accuracy of 78.22%. Detailed analysis and confusion matrix are provided to showcase the model's performance across different stages.
+
+## Conclusion
+The analysis concluded that comfortable weather is a significant factor for bike rentals, and some expected influences 
+
+## Contributors
+- Qinmiao Deng*
+- Kira Shen*
+- Xinbei Yu*
+- Kaishuo Zhang*
+- 
+*Each person equally contributed to this project.
+
+Contact: {qinmiao_deng, ruiqi_shen, xinbei_yu, kaishuo_zhang, qi_zhao}@brown.edu
+
