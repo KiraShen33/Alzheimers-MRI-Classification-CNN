@@ -46,7 +46,7 @@ The analysis concluded that comfortable weather is a significant factor for bike
 - Kira Shen*
 - Xinbei Yu*
 - Kaishuo Zhang*
-- 
+
 *Each person equally contributed to this project.
 
 Contact: {qinmiao_deng, ruiqi_shen, xinbei_yu, kaishuo_zhang, qi_zhao}@brown.edu
