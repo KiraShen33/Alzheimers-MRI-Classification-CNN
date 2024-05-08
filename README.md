@@ -47,10 +47,7 @@ The dataset includes MRI scans categorized into four stages of Alzheimer's Disea
 
 The CNN model effectively classifies Alzheimer's Disease stages with a high accuracy of 78.22%. Detailed analysis and confusion matrix are provided to showcase the model's performance across different stages.
 
-## Conclusion
-The analysis concluded that comfortable weather is a significant factor for bike rentals, and some expected influences 
-
-## Contributors
+# Contributors
 - Qinmiao Deng*
 - Kira Shen*
 - Xinbei Yu*
