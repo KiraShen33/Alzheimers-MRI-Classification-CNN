@@ -5,8 +5,11 @@ This project develops a Convolutional Neural Network (CNN) model to classify MRI
 # Key Features
 
 **Class Imbalance Management:** Implements upsampling techniques to balance the dataset, ensuring equitable learning across all disease stages.
+
 **Custom CNN Architecture:** Tailored convolutional neural network designed to process MRI images effectively.
+
 **Custom Loss Function:** Introduces a novel loss function that reduces the test loss significantly, from 12 to 4, enhancing model accuracy and robustness.
+
 **Performance Metrics:** Achieves a test accuracy of 78.22%, demonstrating strong capability in classifying stages of Alzheimer's Disease.
 
 # Data Description
